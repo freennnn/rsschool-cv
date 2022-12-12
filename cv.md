@@ -1,11 +1,11 @@
 Alexander Pranevich
 ===================
 
-###Contact Information:\
+### Contact Information:\
 **Email:** freennnn@gmail.com\
 **Telegram:** @freennnn\
-[Linkedin](https://www.linkedin.com/in/williamhgates)\
-
+[Linkedin](https://www.linkedin.com/in/williamhgates)
+=====================================================
 
 **About Myself:** Software engineer with passion for organizing, architecture and productivity. Growth mindset enthusiast and armchair world expert.
 
