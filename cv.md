@@ -1,8 +1,6 @@
-Alexander Pranevich
-===================
+## Alexander Pranevich
 
-Contact Information:
-===================
+### Contact Information:
 
 **Email:** freennnn@gmail.com\
 **Telegram:** @freennnn\
