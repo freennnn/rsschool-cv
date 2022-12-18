@@ -40,3 +40,29 @@ html {
   line-height: 50px;
   transition: .3s;
 }
+
+.photo {
+  width: 100%;
+  object-fit: none;
+}
+
+
+
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  padding: 20px 60px 20px 60px;
+}
+.footer-github {
+  position: relative;
+  padding-left: 40px;
+}
+
+.footer-year {
+  justify-self: center;
+}
+.footer-rsschool {
+  justify-self: end;
+  height: 32px;
+}
