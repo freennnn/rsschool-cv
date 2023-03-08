@@ -2,8 +2,8 @@
 
 ### Contact Information:
 
-**Email:** freennnn@gmail.com\
-**Telegram:** @freennnn\
+**Email:** freennnn@gmail.com
+**Telegram:** @freennnn
 [Linkedin](https://www.linkedin.com/in/williamhgates)
 ---
 
